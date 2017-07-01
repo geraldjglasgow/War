@@ -1,5 +1,5 @@
 /**
- * Created by SSLGhost on 6/29/17.
+ * Created by Gerald Glasgow on 6/29/17.
  */
 public class Card {
     private char suit;
